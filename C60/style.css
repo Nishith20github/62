@@ -1,0 +1,37 @@
+body {
+    text-align: center;
+}
+
+.line {
+    background-color:  black;
+    width:70px;
+    height:6px;
+    margin-left: 729px;
+}
+
+#heading1 {
+    font-size: 40px;
+    color: crimson;
+}
+
+#app {
+    background-color: aquamarine;
+}
+
+img {
+    transition: transform .2s;
+}
+
+img:hover {
+    transform:scale(0.9);
+    
+}
+
+#heading2{
+    font-size: 40px;
+    color:blueviolet;
+}
+
+#game{
+    background-color: chartreuse;
+}
